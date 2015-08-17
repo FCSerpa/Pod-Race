@@ -1,0 +1,48 @@
+div.box {
+    margin: 0px;
+    width: 180px;
+    height: 115px;
+    display: inline-block;
+}
+
+div.start {border-right: 1px dashed white;}
+
+div.finish {border-left: 1px dashed white;}
+
+div.bottomline {border-bottom: 1px solid cyan;}
+
+div.topline {border-top: 1px solid cyan;}
+
+div.rightline {border-right: 1px solid cyan;}
+
+div.leftline {border-left: 1px solid cyan;}
+
+div.up {
+	top: 0;
+}
+div.down {
+	bottom: 0;    
+}
+
+
+div.container{
+	border: 1px none;
+	position: relative;
+	margin: 0 auto;
+	height: 120px;
+	width: 1300px;
+}
+body {
+	background-color: turquoise;
+	background-image: url("underwater-ocean-water-background.jpg");
+	background-size: cover;
+}
+
+table {
+	font-size: 100px;
+	margin: 10%;
+}
+
+td.track {
+	background-color: skyblue;
+}
