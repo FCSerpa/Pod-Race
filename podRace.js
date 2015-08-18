@@ -11,20 +11,20 @@ var startTime;
 var endTime;
 
 //variables representing different dolphin color options for each facing (if I have time to implement optional colors)
-var grayDolR = '<img src="gray-dolphin-r.png"></img>';
-var grayDolL = '<img src="gray-dolphin-l.png"></img>';
-var tealDolR = '<img src="teal-dolphin-r.png"></img>';
-var tealDolL = '<img src="teal-dolphin-l.png"></img>';
-var blueDolR = '<img src="blue-dolphin-r.png"></img>';
-var blueDolL = '<img src="blue-dolphin-l.png"></img>';
-var purpDolR = '<img src="purple-dolphin-r.png"></img>';
-var purpDolL = '<img src="purple-dolphin-l.png"></img>';
-var greenDolR = '<img src="green-dolphin-r.png"></img>';
-var greenDolL = '<img src="green-dolphin-l.png"></img>';
-var yelDolR = '<img src="yellow-dolphin-r.png"></img>';
-var yelDolL = '<img src="yellow-dolphin-l.png"></img>';
-var pinkDolR = '<img src="pink-dolphin-r.png"></img>';
-var pinkDolR = '<img src="pink-dolphin-l.png"></img>';
+var grayDolR = '<img src="images/gray-dolphin-r.png"></img>';
+var grayDolL = '<img src="images/gray-dolphin-l.png"></img>';
+var tealDolR = '<img src="images/teal-dolphin-r.png"></img>';
+var tealDolL = '<img src="images/teal-dolphin-l.png"></img>';
+var blueDolR = '<img src="images/blue-dolphin-r.png"></img>';
+var blueDolL = '<img src="images/blue-dolphin-l.png"></img>';
+var purpDolR = '<img src="images/purple-dolphin-r.png"></img>';
+var purpDolL = '<img src="images/purple-dolphin-l.png"></img>';
+var greenDolR = '<img src="images/green-dolphin-r.png"></img>';
+var greenDolL = '<img src="images/green-dolphin-l.png"></img>';
+var yelDolR = '<img src="images/yellow-dolphin-r.png"></img>';
+var yelDolL = '<img src="images/yellow-dolphin-l.png"></img>';
+var pinkDolR = '<img src="images/pink-dolphin-r.png"></img>';
+var pinkDolR = '<img src="images/pink-dolphin-l.png"></img>';
 
 //set player dolphin avatar, facing right and left, gray and teal are default
 var color1;
